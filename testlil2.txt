@@ -1,3 +1,4 @@
+Adding changes before rebasing conflicts
 All my students
 modif
 new member
